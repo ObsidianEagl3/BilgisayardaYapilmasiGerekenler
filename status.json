@@ -1,6 +1,6 @@
 {
-  "server": "kapalı",
-  "isEntryAllowed": false,
+  "server": "aktif",
+  "isEntryAllowed": true,
   "version": "1.9.0.3",
   "downloadUrl": "https://example.com/update.exe",
   "statusTitle_tr": "Bakım Çalışması",
