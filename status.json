@@ -1,5 +1,5 @@
 {
-  "server": "devredışı",
+  "server": "aktif",
   "isEntryAllowed": true,
   "version": "1.9.0.3",
   "downloadUrl": "https://example.com/update.exe",
@@ -7,6 +7,12 @@
   "statusTitle_en": "Maintenance",
   "statusMessage_tr": "Sunucularımız bakımdadır.",
   "statusMessage_en": "Servers are under maintenance.",
+  "isMandatoryUpdate": true,
+  "showNotice": true,
+  "noticeTitle_tr": "Duyuru",
+  "noticeTitle_en": "Announcement",
+  "noticeMessage_tr": "Bu akşam saat 20:00'de canlı yayınımız var!",
+  "noticeMessage_en": "We have a live stream tonight at 20:00!",
   "users": [
     {
       "user": "admin",
