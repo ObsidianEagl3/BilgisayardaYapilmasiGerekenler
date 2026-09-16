@@ -1,0 +1,20 @@
+{
+  "server": "aktif",
+  "isEntryAllowed": true,
+  "version": "1.9.0.3",
+  "downloadUrl": "https://example.com/update.exe",
+  "statusTitle_tr": "Bakım Çalışması",
+  "statusTitle_en": "Maintenance",
+  "statusMessage_tr": "Sunucularımız bakımdadır.",
+  "statusMessage_en": "Servers are under maintenance.",
+  "users": [
+    {
+      "user": "admin",
+      "pass": "1234"
+    },
+    {
+      "user": "obsidian",
+      "pass": "eagle2026"
+    }
+  ]
+}
