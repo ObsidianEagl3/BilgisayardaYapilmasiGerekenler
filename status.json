@@ -1,11 +1,11 @@
 {
-  "server": "kapalı",
+  "server": "açık",
   "isEntryAllowed": true,
   "version": "1.9.0.3",
   "downloadUrl": "https://example.com/update.exe",
   "statusTitle_tr": "*BAKIM ÇALIŞMASI*",
   "statusTitle_en": "Maintenance",
-  "statusMessage_tr": "Uygıulamaya Girişler Geçici Olarak Kapalıdır. Sunucularımızı bakıma Aldık. Tahmini Açılış Süresi 20:00",
+  "statusMessage_tr": "Uygıulamaya Girişler Geçici Olarak Kapalıdır. \nSunucularımızı bakıma Aldık. Tahmini Açılış Süresi 20:00",
   "statusMessage_en": "Servers are under maintenance.",
   "isMandatoryUpdate": true,
   "showNotice": true,
